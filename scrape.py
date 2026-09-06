@@ -9,6 +9,9 @@ Run:
 
 The normal entry point opens the GUI. The hidden --review-session mode is used
 by the GUI to launch the OpenCV reviewer in a separate Python process.
+
+This program is a consolidation of scrips used within my dissertation, simplified for re-distribution so other can create similar datasets.
+To do this, generative AI was used to help build a user interface, and simplify the workflow for other to use more easily.
 """
 
 import argparse
